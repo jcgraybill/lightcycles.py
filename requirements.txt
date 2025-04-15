@@ -1,0 +1,2 @@
+catppuccin==2.4.1
+pygame==2.6.1
